@@ -33,3 +33,10 @@ async def echo(message: types.Message):
 
 if __name__ == '__main__':
     executor.start_polling(dp, skip_updates=True)
+
+
+#o'quv markazi uchun ro'yxatga oluvchi bot
+# ism familya so'raladi
+# telefon raqam so'raladi
+# qaysi kursga qatnashmoqchi ekanligi so'raladi
+# qaysi vaqt u uchun qulay ekanligi so'raladi    
